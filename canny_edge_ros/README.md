@@ -12,9 +12,11 @@ this project was tested using ROs kinect
 
 ## Building and installing
 
-cd catkin_workspace/src
-git clone --recursive git@github.com:leggedrobotics/darknet_ros.git
-cd ../
+    cd catkin_workspace/src
+    git clone https://github.com/agusorte/assigment/canny_edge_ros
+
+    cd ../
+    catkin_make
 
 ## Running
 
